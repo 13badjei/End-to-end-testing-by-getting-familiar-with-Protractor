@@ -1,1 +1,1 @@
-# End-to-end-testing-by-getting-familiar-with-Protractor
+# End-to-end-testing-with-Protractor
